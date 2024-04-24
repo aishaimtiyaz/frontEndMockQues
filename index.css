@@ -1,0 +1,29 @@
+
+#Body{
+    height: 59vh;
+    width: 45vw;
+    background-color: blanchedalmond;
+    /* color: white; */
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: auto;
+    margin-top: 11%;
+}
+#root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    height: 30px;
+ } 
+#speedoMeter {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    padding: 5px;
+    bottom: 15px;
+    left: 42;
+ } 
